@@ -120,7 +120,7 @@ const dummyData = {
     en: `I'm an aspiring web developer, but you already knew that. I believe that responsive design and accessibility are crucial to succeeding in todays world wide web.
         I believe that my experience with language learning has been incredibly helpful in developing my skills as a developer. Additionally my experience teaching Japanese has taught me a lot about how to communicate effectively.`,
     de: `Ich bin ein Web Developer auf der Suche nach seinem ersten Job. Meiner Meinung nach ist Responsive Design und Accessibility ausschlaggebend zum Erfolg in dem heutigen Web
-        Meine Erfahrung im Sprachen lernen unglaublich hilfreich in der Entwicklung meiner Entwicklungs Künste. Desweiteren erlaubt meine Erfahrung im Japanisch Nachhilfe geben mir effektiv zu kommunizieren, unabhängig von dem Technischen Verständnis meines Gegenübers.`,
+        Meine Erfahrung im Sprachen lernen unglaublich hilfreich in der Entwicklung meiner Entwicklungs Künste. Des Weiteren erlaubt meine Erfahrung im Japanisch Nachhilfe geben mir effektiv zu kommunizieren, unabhängig von dem Technischen Verständnis meines Gegenübers.`,
   },
   contact: {
     mail: {
